@@ -102,8 +102,8 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1316,
-                    "y": 164,
+                    "x": 1486,
+                    "y": 168.5,
                     "ioValues": []
                 }
             ],
@@ -180,6 +180,15 @@
                     ]
                 },
                 {
+                    "atomType": "Readme",
+                    "name": "README",
+                    "x": 272,
+                    "y": 145,
+                    "uniqueID": 950419,
+                    "ioValues": [],
+                    "readmeText": "Maslow Create is a new type of CAD program where you define the thing you want to create logically, rather than by drawing. Each project is composed of Atoms and Molecules. Each atom performs one logical task like rotating the shape, each Molecule can contain any number of inter connected Atoms. To place an atom or molecule right click anywhere on the flow drawing canvas."
+                },
+                {
                     "atomType": "Constant",
                     "name": "Constant - Radius",
                     "x": 72,
@@ -191,15 +200,6 @@
                             "ioValue": 9.9
                         }
                     ]
-                },
-                {
-                    "atomType": "Readme",
-                    "name": "README",
-                    "x": 272,
-                    "y": 158,
-                    "uniqueID": 950419,
-                    "ioValues": [],
-                    "readmeText": "Maslow Create is a new type of CAD program where you define the thing you want to create logically, rather than by drawing. Each project is composed of Atoms and Molecules. Each atom performs one logical task like rotating the shape, each Molecule can contain any number of inter connected Atoms. To place an atom or molecule right click anywhere on the flow drawing canvas."
                 },
                 {
                     "atomType": "Circle",
@@ -315,8 +315,8 @@
                 {
                     "atomType": "Readme",
                     "name": "README",
-                    "x": 1238,
-                    "y": 123,
+                    "x": 1240,
+                    "y": 119,
                     "uniqueID": 650474,
                     "ioValues": [],
                     "readmeText": "The output of the program defines what will be displayed in the project thumbnail and what shape will be used for displaying changes over time. The output of the project should be connected to the output Atom. Each Molecule comes with one Output atom which cannot be deleted."
@@ -324,8 +324,8 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1316,
-                    "y": 164,
+                    "x": 1486,
+                    "y": 168.5,
                     "ioValues": []
                 }
             ],
