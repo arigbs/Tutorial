@@ -292,6 +292,14 @@
                     ]
                 },
                 {
+                    "atomType": "Union",
+                    "name": "Union",
+                    "x": 944,
+                    "y": 271,
+                    "uniqueID": 489113,
+                    "ioValues": []
+                },
+                {
                     "atomType": "Assembly",
                     "name": "Assembly",
                     "x": 1016,
@@ -379,11 +387,18 @@
                     "ap2ID": 140877
                 },
                 {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry1",
+                    "ap1ID": 449683,
+                    "ap2ID": 489113
+                },
+                {
                     "ap1Name": "Geometry",
                     "ap2Name": "2D shape 829766",
                     "ap1ID": 742531,
                     "ap2ID": 140877
                 },
+                null,
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "number or geometry",
