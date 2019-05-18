@@ -403,16 +403,20 @@
                     "readmeText": "The output of the program defines what will be displayed in the project thumbnail and what shape will be used for displaying changes over time. The output of the project should be connected to the output Atom. Each Molecule comes with one Output atom which cannot be deleted."
                 },
                 {
+                    "atomType": "Difference",
+                    "name": "Difference",
+                    "x": 1231,
+                    "y": 324,
+                    "uniqueID": 341640,
+                    "ioValues": []
+                },
+                {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 1297,
-                    "y": 278,
+                    "x": 1356,
+                    "y": 250,
                     "uniqueID": 966013,
                     "ioValues": [
-                        {
-                            "name": "3D shape 427345",
-                            "ioValue": 10
-                        },
                         {
                             "name": "3D shape 981963",
                             "ioValue": 10
@@ -506,15 +510,21 @@
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "3D shape 427345",
+                    "ap2Name": "geometry1",
                     "ap1ID": 144400,
-                    "ap2ID": 966013
+                    "ap2ID": 341640
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 981963",
                     "ap1ID": 425396,
                     "ap2ID": 966013
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry2",
+                    "ap1ID": 425396,
+                    "ap2ID": 341640
                 },
                 {
                     "ap1Name": "geometry",
