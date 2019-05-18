@@ -385,7 +385,7 @@
                         },
                         {
                             "name": "yDist",
-                            "ioValue": 0
+                            "ioValue": 5
                         },
                         {
                             "name": "zDist",
@@ -415,6 +415,10 @@
                         },
                         {
                             "name": "3D shape 981963",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 963395",
                             "ioValue": 10
                         }
                     ]
@@ -504,6 +508,12 @@
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 427345",
                     "ap1ID": 144400,
+                    "ap2ID": 966013
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 981963",
+                    "ap1ID": 425396,
                     "ap2ID": 966013
                 },
                 {
