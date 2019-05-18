@@ -332,8 +332,8 @@
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 1232,
-                    "y": 250,
+                    "x": 1268,
+                    "y": 269,
                     "uniqueID": 966013,
                     "ioValues": [
                         {
@@ -353,8 +353,8 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1486,
-                    "y": 180.5,
+                    "x": 1458,
+                    "y": 194,
                     "ioValues": []
                 }
             ],
