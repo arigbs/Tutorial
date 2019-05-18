@@ -321,10 +321,19 @@
                     ]
                 },
                 {
+                    "atomType": "Readme",
+                    "name": "README",
+                    "x": 1240,
+                    "y": 119,
+                    "uniqueID": 650474,
+                    "ioValues": [],
+                    "readmeText": "The output of the program defines what will be displayed in the project thumbnail and what shape will be used for displaying changes over time. The output of the project should be connected to the output Atom. Each Molecule comes with one Output atom which cannot be deleted."
+                },
+                {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 1196,
-                    "y": 238,
+                    "x": 1232,
+                    "y": 250,
                     "uniqueID": 966013,
                     "ioValues": [
                         {
@@ -334,17 +343,12 @@
                         {
                             "name": "3D shape 976989",
                             "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 125761",
+                            "ioValue": 10
                         }
                     ]
-                },
-                {
-                    "atomType": "Readme",
-                    "name": "README",
-                    "x": 1240,
-                    "y": 119,
-                    "uniqueID": 650474,
-                    "ioValues": [],
-                    "readmeText": "The output of the program defines what will be displayed in the project thumbnail and what shape will be used for displaying changes over time. The output of the project should be connected to the output Atom. Each Molecule comes with one Output atom which cannot be deleted."
                 },
                 {
                     "atomType": "Output",
@@ -431,6 +435,12 @@
                     "ap1Name": "geometry",
                     "ap2Name": "number or geometry",
                     "ap1ID": 140877
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 976989",
+                    "ap1ID": 140877,
+                    "ap2ID": 966013
                 }
             ],
             "fileTypeVersion": 1
