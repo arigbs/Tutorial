@@ -19,10 +19,6 @@
                         {
                             "name": "radius",
                             "ioValue": 10
-                        },
-                        {
-                            "name": "max segment size",
-                            "ioValue": 1
                         }
                     ]
                 },
@@ -109,6 +105,23 @@
                     ]
                 },
                 {
+                    "atomType": "Rectangle",
+                    "name": "Rectangle",
+                    "x": 712,
+                    "y": 308,
+                    "uniqueID": 673875,
+                    "ioValues": [
+                        {
+                            "name": "x length",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "y length",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
                     "atomType": "Readme",
                     "name": "README",
                     "x": 790,
@@ -154,8 +167,8 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1458,
-                    "y": 194,
+                    "x": 1486,
+                    "y": 176.5,
                     "ioValues": []
                 }
             ],
@@ -204,5 +217,6 @@
             ],
             "fileTypeVersion": 1
         }
-    ]
+    ],
+    "circleSegmentSize": 2
 }
